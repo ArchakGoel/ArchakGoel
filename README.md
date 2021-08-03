@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArchakGoel
+- 👋 Hi, I’m @ArcherG007
 - 👀 I’m interested in Geometric Modelling, Additive Manufacturing R&D
 
 
