@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArcherG007
-- 👀 I’m interested in 3D Geometric algorithms, Additive Manufacturing and Augmented Reality
+- 👀 I’m interested in 3D Geometric algorithms, Additive Manufacturing and 3D perception for AR/VR and computer vision.
 
 
 <!---
