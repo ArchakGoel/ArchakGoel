@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ArcherG007
-- 👀 I’m interested in 3D Geometric algorithms, Additive Manufacturing and 3D perception for AR/VR and computer vision.
-
+- 👀 I’m interested in algorithms for 3D geometry, aditive manufacturing and 3D perception.
 
 <!---
 ArchakGoel/ArchakGoel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
