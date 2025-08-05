@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arckgl01
+- 👋 Hi, I’m Archak Goel
 - 👀 I’m interested in algorithms for 3D geometry, aditive manufacturing and 3D perception.
 
 <!---
